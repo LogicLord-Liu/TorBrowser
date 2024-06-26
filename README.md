@@ -79,7 +79,7 @@ Get more information.
 
 1. [Official](https://tb-manual.torproject.org/about/) of TorBrowser.
 
-2. [Teaching vedio](https://www.youtube.com/watch?v=U2-JPqrALsA) and [Teaching Vedio](https://www.youtube.com/watch?v=W0o9CpcSIyU)
+2. [Tutorial vedio](https://www.youtube.com/watch?v=U2-JPqrALsA) and [Tutorial Vedio](https://www.youtube.com/watch?v=W0o9CpcSIyU)
 
 Contact me 
 
